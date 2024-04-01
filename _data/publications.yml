@@ -1,0 +1,68 @@
+main:
+
+  - title: "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
+    authors: <strong>Tianjiao Li</strong>, Guanghui Lan* (*Corresponding authors)
+    # conference_short: MICCAI
+    journal: Mathematical Programming Series A
+    pdf: https://arxiv.org/pdf/2310.10082.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
+    # image: ./assets/img/teaser_example_2.png
+    notes: Under review
+
+  - title: "Accelerated Stochastic Approximation with State-Dependent Noise"
+    authors: Sasila Ilandarideva, Anatoli Juditsky, Guanghui Lan, <strong>Tianjiao Li (alphabetic order)</strong>
+    # conference_short: CVPR
+    journal: Mathematical Programming Series A
+    pdf: https://arxiv.org/pdf/2307.01497.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sMw-q5FJme8J:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzuJ0o:AFWwaeYAAAAAZffoP0oyI5mOYDVc-SRREtUmAEw&scisig=AFWwaeYAAAAAZffoP35eU6jZNfRCuLYSQTBDrYM&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Under minor revision
+    # image: ./assets/img/teaser_example.png
+    
+  - title: "Stochastic first-order methods for average-reward Markov decision processes"
+    authors: <strong>Tianjiao Li</strong>, Feiyang Wu, Guanghui Lan
+    # conference_short: CVPR
+    journal: Mathematics of Operations Research
+    pdf: https://arxiv.org/pdf/2205.05800.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kyuY6lW9ADcJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzvMEY:AFWwaeYAAAAAZffpKEbyiEDOawgF3kUPaCEoZ2k&scisig=AFWwaeYAAAAAZffpKPkhamaocLiB8XLoZ1Out8g&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Under major revision
+    # image: ./assets/img/teaser_example.png
+    
+  - title: "Faster Algorithm and Sharper Analysis for Constrained Markov Decision Process"
+    authors: <strong>Tianjiao Li</strong>, Ziwei Guan, Shaofeng Zou, Tengyu Xu, Yingbin Liang, Guanghui Lan
+    # conference_short: CVPR
+    journal: Operations Research Letters, 2024
+    pdf: https://arxiv.org/pdf/2205.05800.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kyuY6lW9ADcJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzvMEY:AFWwaeYAAAAAZffpKEbyiEDOawgF3kUPaCEoZ2k&scisig=AFWwaeYAAAAAZffpKPkhamaocLiB8XLoZ1Out8g&scisf=4&ct=citation&cd=-1&hl=en
+    # notes: Under major revision
+    page: https://doi.org/10.1016/j.orl.2024.107107
+    # image: ./assets/img/teaser_example.png
+    
+  - title: "Accelerated and Instance-Optimal Policy Evaluation with Linear Function Approximation"
+    authors: <strong>Tianjiao Li</strong>, Guanghui Lan, Ashwin Pananjady
+    # conference_short: CVPR
+    journal: SIAM Journal on Mathematics of Data Science, vol. 5, no. 1, pp. 174-200, 2023
+    pdf: https://arxiv.org/pdf/2112.13109.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Ceym0BhJ52wJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzqgDc:AFWwaeYAAAAAZffsmDdv0TzfEASTMcniMsLwbhc&scisig=AFWwaeYAAAAAZffsmBY8QdjeH86MXmpZNOAWd7E&scisf=4&ct=citation&cd=-1&hl=en
+    # notes: Under major revision
+    page: https://doi.org/10.1137/21M1468668
+    # image: ./assets/img/teaser_example.png
+    
+  - title: "Simple and Optimal Methods for Stochastic Variational Inequalities, I: Operator Extrapolation"
+    authors: Georgios Kotsalis, Guanghui Lan, <strong>Tianjiao Li (alphabetic order)</strong>
+    # conference_short: CVPR
+    journal: SIAM Journal on Optimization, vol. 32, no. 3, pp. 2041-2073, 2022
+    pdf: https://arxiv.org/pdf/2011.02987.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:ZA40LKegT0kJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzrB_g:AFWwaeYAAAAAZfftH_gV0oahluHgOrtOglyjv_I&scisig=AFWwaeYAAAAAZfftH2pR_zJaOEwdSr6-zTSB1eo&scisf=4&ct=citation&cd=-1&hl=en
+    # notes: Under major revision
+    page: https://doi.org/10.1137/20M1381678
+    # image: ./assets/img/teaser_example.png
+    
+  - title: "Simple and Optimal Methods for Stochastic Variational Inequalities, II: Markovian Noise and Policy Evaluation in Reinforcement Learning"
+    authors: Georgios Kotsalis, Guanghui Lan, <strong>Tianjiao Li (alphabetic order)</strong>
+    # conference_short: CVPR
+    journal: SIAM Journal on Optimization, vol. 32, no. 2, pp. 1120-1155, 2022
+    pdf: https://arxiv.org/pdf/2011.08434.pdf
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:Pibl-XQalbcJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzroBw:AFWwaeYAAAAAZfftuByNddfk7sfTAc4-UNo5ghM&scisig=AFWwaeYAAAAAZfftuHT60bmjIwGMlOH5pd83iak&scisf=4&ct=citation&cd=-1&hl=en
+    # notes: Under major revision
+    page: https://doi.org/10.1137/20M1381691
+    # image: ./assets/img/teaser_example.png
