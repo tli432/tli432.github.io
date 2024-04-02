@@ -12,12 +12,20 @@ I am fortunate to be advised by [Guanghui (George) Lan](https://sites.gatech.edu
 
 My research focuses on the design and analysis of efficient algorithms for *Nonlinear Optimization*, *Stochastic Optimization*, and *Reinforcement Learning*. I am particularly interested in
 
-- **Policy optimization and policy evaluation in reinforcement learning :** 
-- **Parameter-free methods for convex and nonconvex optimization:** 
-- **Stochastic optimization methods for statistical learning and machine learning:**
+- **Policy optimization and policy evaluation in reinforcement learning** 
+- **Parameter-free methods for convex and nonconvex optimization** 
+- **Stochastic optimization methods for statistical learning and machine learning**
 - **Real-life applications:** healthcare, E-commerce, financial industry, etc
 
 {% include_relative _includes/publications.md %}
+
+## Awards
+
+- **Shabbir Ahmed PhD Fellowships for Excellence in Research**
+  - Awarded annually to one Ph.D. student (co-winner) in ISyE for research in optimization
+
+- **First Place, Best Poster Award, Georgia Statistics Day 2023**
+
 
 ## Talks and Presentations
 
