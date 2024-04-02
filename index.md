@@ -36,11 +36,6 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 - **INFORMS Optimization Society Conference**, Houston, TX, Mar 2024 
   - Session: Advances in Continuous Optimization Algorithms
   - Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization 
-
-
-- **INFORMS Annual Meeting** (INFORMS, October 2023, Phoenix)
-  - Session: Recent Advances in Policy Optimization and Reinforcement Learning 
-  - Title: Accelerated and Instance-Optimal Policy Evaluation with Linear Function Approximation 
   
 - **Guest Lecturer**, ISyE 8803, Georgia Tech, Atlanta, GA, Feb 2024 
   - Course: Optimization Methods for Reinforcement Learning 
