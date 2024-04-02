@@ -10,10 +10,10 @@ I am fortunate to be advised by [George Lan](https://sites.gatech.edu/guanghui-l
 
 ## Research Interests
 
-My research focuses on the design and analysis of novel first-order methods for *Nonlinear Optimization*, *Stochastic Optimization*, and *Reinforcement Learning*. I am particularly interested in
+My research focuses on the design and analysis of efficient algorithms for *Nonlinear Optimization*, *Stochastic Optimization*, and *Reinforcement Learning*. I am particularly interested in
 
 - **Policy optimization and policy evaluation in reinforcement learning :** 
-- **Parameter-free first-order methods for convex and nonconvex optimization:** 
+- **Parameter-free methods for convex and nonconvex optimization:** 
 - **Stochastic optimization methods for statistical learning and machine learning:**
 - **Real-life applications:** healthcare, E-commerce, financial industry, etc
 
