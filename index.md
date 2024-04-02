@@ -6,7 +6,7 @@ layout: homepage
 
 I am a fourth-year PhD student at ISyE, Georgia Tech. I obtained M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained B.S. in Mathematics from Fudan University.
 
-I am fortunate to be advised by [George Lan](https://sites.gatech.edu/guanghui-lan/) and [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/).
+I am fortunate to be advised by [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/).
 
 ## Research Interests
 
