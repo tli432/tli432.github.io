@@ -21,7 +21,7 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 ## Awards
 
-- **Shabbir Ahmed PhD Fellowships for Excellence in Research**
+- **Shabbir Ahmed PhD Fellowship for Excellence in Research**
   - Awarded annually to one Ph.D. student (co-winner) in ISyE for research in optimization
 
 - **First Place, Best Poster Award, Georgia Statistics Day 2023**
