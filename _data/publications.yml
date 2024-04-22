@@ -3,7 +3,7 @@ main:
   - title: "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
     authors: <strong>Tianjiao Li</strong>, Guanghui Lan
     # conference_short: MICCAI
-    journal: Submitted to Mathematical Programming Series A
+    journal: Under major revision, Mathematical Programming Series A
     pdf: https://arxiv.org/pdf/2310.10082.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/teaser_example_2.png
