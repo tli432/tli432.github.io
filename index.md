@@ -10,7 +10,7 @@ I am a fourth-year PhD student in Operations Research at ISyE, Georgia Tech. I a
 
 ## Research Interests
 
-My research focuses on the design and analysis of efficient algorithms for *Nonlinear Optimization*, *Stochastic Optimization*, and *Reinforcement Learning*. I am particularly interested in
+My research focuses on the design and analysis of efficient algorithms for *Nonlinear Optimization*, *Stochastic Optimization*, and *Dynamic Decision Making*. I am particularly interested in
 
 - **Policy optimization and policy evaluation for Markov decision process** 
 - **Parameter-free methods for convex and nonconvex optimization** 
