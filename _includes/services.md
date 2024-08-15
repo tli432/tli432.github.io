@@ -12,4 +12,6 @@
   <li><a href="https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt"><autocolor>SIAM Journal on Optimization</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10107"><autocolor>Mathematical Programming</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10589"><autocolor>Computational Optimization and Applications</autocolor></a></li>
+  <li><a href="https://imstat.org/journals-and-publications/annals-of-statistics"><autocolor>Annuals of Statistics</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/11590"><autocolor>Optimization Letters</autocolor></a></li>
 </ul>
