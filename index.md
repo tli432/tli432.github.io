@@ -6,7 +6,7 @@ layout: homepage
 
 I am a fifth-and-final-year PhD student in Operations Research at ISyE, Georgia Tech. I am fortunate to be advised by Prof. [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). I also obtained an M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained my B.S. in Mathematics from Fudan University.
 
-
+**I am on the 2024-2025 academic job market!**
 
 ## Research Interests
 
@@ -21,11 +21,11 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 ## Awards
 
-- **Shabbir Ahmed PhD Fellowship for Excellence in Research**
+- **Alice and John Jarvis Best Student Paper Award, 2024**
+  - Awarded annually to one Ph.D. student in ISyE across all disciplines
+- **Shabbir Ahmed PhD Fellowship for Excellence in Research, 2023**
   - Awarded annually to one Ph.D. student (co-winner) in ISyE for research in optimization
-
 - **Second Place, Poster Competition, YinzOR Student Conference 2024**
-
 - **First Place, Best Poster Award, Georgia Statistics Day 2023**
 
 ## Teaching
@@ -34,7 +34,7 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
   - Course: Statistics and Applications (ISyE 3770)
   - Description: Introductory probability and statistics course for engineering and computer science students
   - Class size: 64 (26 on campus + 38 online)
-  - Teaching evaluation: **4.77/5.0** (response rate: 56%)
+  - Teaching evaluation: **4.8/5.0** (response rate: 56%)
 
 - **Guest Lecturer, Fall 2024, Georgia Tech**
   - Course: Computational Data Analysis / Machine Learning (ISyE 6740)
