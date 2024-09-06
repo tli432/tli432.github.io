@@ -3,7 +3,7 @@ main:
   - title: "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
     authors: <strong>Tianjiao Li</strong>, Guanghui Lan
     # conference_short: MICCAI
-    journal: Under major revision, Mathematical Programming Series A
+    journal: Under second-round review, Mathematical Programming Series A. Initial version submitted in Oct 2023.
     pdf: https://arxiv.org/pdf/2310.10082.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/teaser_example_2.png
@@ -22,7 +22,7 @@ main:
   - title: "Stochastic first-order methods for average-reward Markov decision processes"
     authors: <strong>Tianjiao Li</strong>, Feiyang Wu, Guanghui Lan
     # conference_short: CVPR
-    journal: Under major revision, Mathematics of Operations Research
+    journal: Under second-round review, Mathematics of Operations Research. Initial version submitted in Sep 2022.
     pdf: https://arxiv.org/pdf/2205.05800.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kyuY6lW9ADcJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzvMEY:AFWwaeYAAAAAZffpKEbyiEDOawgF3kUPaCEoZ2k&scisig=AFWwaeYAAAAAZffpKPkhamaocLiB8XLoZ1Out8g&scisf=4&ct=citation&cd=-1&hl=en
     # notes: 

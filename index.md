@@ -6,7 +6,7 @@ layout: homepage
 
 I am a fifth-and-final-year PhD student in Operations Research at ISyE, Georgia Tech. I am fortunate to be advised by Prof. [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). I also obtained an M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained my B.S. in Mathematics from Fudan University.
 
-**I am on the 2024-2025 academic job market!**
+### I am on the 2024-2025 academic job market!
 
 ## Research Interests
 
@@ -15,7 +15,7 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 - **Parameter-free methods for convex and nonconvex optimization** 
 - **Stochastic optimization for statistical learning and machine learning**
 - **Policy optimization and policy evaluation for Markov decision processes** 
-- **Real-life applications:** healthcare, E-commerce, financial industry, etc
+- **Applications:** healthcare, E-commerce, finance, etc
 
 {% include_relative _includes/publications.md %}
 
@@ -23,9 +23,12 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 - **Alice and John Jarvis Best Student Paper Award, 2024**
   - Awarded annually to one Ph.D. student in ISyE across all disciplines
+  
 - **Shabbir Ahmed PhD Fellowship for Excellence in Research, 2023**
-  - Awarded annually to one Ph.D. student (co-winner) in ISyE for research in optimization
+  - Awarded annually to one Ph.D. student in ISyE for research in optimization
+
 - **Second Place, Poster Competition, YinzOR Student Conference 2024**
+
 - **First Place, Best Poster Award, Georgia Statistics Day 2023**
 
 ## Teaching
@@ -35,6 +38,13 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
   - Description: Introductory probability and statistics course for engineering and computer science students
   - Class size: 64 (26 on campus + 38 online)
   - Teaching evaluation: **4.8/5.0** (response rate: 56%)
+    - Respect for students: **4.8/5.0**
+    - Inclusiveness: **4.9/5.0**
+    - Communicated how to succeed: **4.7/5.0**
+    - Availability: **4.9/5.0**
+    - Stimulates interest: **4.7/5.0**
+    - Clarity: **4.6/5.0**
+    - Feedback helpfulness: **4.8/5.0**
 
 - **Guest Lecturer, Fall 2024, Georgia Tech**
   - Course: Computational Data Analysis / Machine Learning (ISyE 6740)
