@@ -19,6 +19,8 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 {% include_relative _includes/publications.md %}
 
+{% include_relative _includes/preprints.md %}
+
 ## Awards
 
 - **Alice and John Jarvis Best Student Paper Award, 2024**
@@ -42,8 +44,8 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
     - Inclusiveness: **4.9/5.0**
     - Communicated how to succeed: **4.7/5.0**
     - Availability: **4.9/5.0**
-    - Stimulates interest: **4.7/5.0**
-    - Clarity: **4.6/5.0**
+    - Stimulates interest: **4.6/5.0**
+    - Clarity: **4.5/5.0**
     - Feedback helpfulness: **4.8/5.0**
 
 - **Guest Lecturer, Fall 2024, Georgia Tech**

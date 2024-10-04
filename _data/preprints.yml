@@ -1,0 +1,10 @@
+main:
+
+  - title: "Auto-Conditioned Primal-Dual Hybrid Gradient Method and Alternating Direction Method of Multipliers"
+    authors: Guanghui Lan, <strong>Tianjiao Li (alphabetic order)</strong>
+    # conference_short: MICCAI
+    journal: Preprint at arXiv:2410.01979, 2024
+    pdf: https://arxiv.org/pdf/2410.01979.pdf
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Submitted to 
