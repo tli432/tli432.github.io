@@ -22,7 +22,7 @@ main:
   - title: "Stochastic First-Order Methods for Average-Reward Markov Decision Processes"
     authors: <strong>Tianjiao Li</strong>, Feiyang Wu, Guanghui Lan
     # conference_short: CVPR
-    journal: Under second-round review, Mathematics of Operations Research. Initial version submitted in Sep 2022.
+    journal: Accepted for publication, Mathematics of Operations Research, 2024.
     pdf: https://arxiv.org/pdf/2205.05800.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kyuY6lW9ADcJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzvMEY:AFWwaeYAAAAAZffpKEbyiEDOawgF3kUPaCEoZ2k&scisig=AFWwaeYAAAAAZffpKPkhamaocLiB8XLoZ1Out8g&scisf=4&ct=citation&cd=-1&hl=en
     # notes: 
