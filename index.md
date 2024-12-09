@@ -62,10 +62,8 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 ## Talks and Presentations
 
 - **INFORMS Annual Meeting**, Seattle, WA, Oct 2024 
-  - **Session**: ME34 - First-Order Methods in Continuous and Stochastic Optimization 
-  - **Location**: Summit - 425
-  - **Time**: Monday, October 21, 4:00 PM - 4:20 PM
-  - **Title**: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
+  - Session: First-Order Methods in Continuous and Stochastic Optimization 
+  - Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
 
 - **Cornell ORIE Young Researchers Workshop**, Ithaca, NY, Oct 2024 
   - Session: Optimization I 
