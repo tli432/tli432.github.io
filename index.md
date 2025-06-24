@@ -6,7 +6,6 @@ layout: homepage
 
 I am a fifth-and-final-year PhD student in Operations Research at ISyE, Georgia Tech. I am fortunate to be advised by Prof. [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). I also obtained an M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained my B.S. in Mathematics from Fudan University.
 
-### I am on the 2024-2025 academic job market!
 
 ## Research Interests
 
@@ -60,6 +59,12 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 
 ## Talks and Presentations
+
+- **ORIE Colloquium, Cornell University**, Ithaca, NY, Feb 2025  
+  - Title: Universal Parameter-Free Methods for Convex, Nonconvex, and Stochastic Optimization
+
+- **STOR Colloquium, UNC Chapel Hill**, Chapel Hill, NC, Jan 2025  
+  - Title: Universal Parameter-Free Methods for Convex, Nonconvex, and Stochastic Optimization
 
 - **INFORMS Annual Meeting**, Seattle, WA, Oct 2024 
   - Session: First-Order Methods in Continuous and Stochastic Optimization 
