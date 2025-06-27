@@ -6,6 +6,8 @@ layout: homepage
 
 I am a fifth-and-final-year PhD student in Operations Research at ISyE, Georgia Tech. I am fortunate to be advised by Prof. [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). I also obtained an M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained my B.S. in Mathematics from Fudan University.
 
+**I will be a Postdoctoral Researcher at the MIT Sloan School of Management, starting in Fall 2025, working with Prof. [Swati Gupta](https://swatigupta.tech/).**
+
 
 ## Research Interests
 
