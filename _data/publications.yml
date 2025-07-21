@@ -3,8 +3,9 @@ main:
   - title: "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
     authors: <strong>Tianjiao Li</strong>, Guanghui Lan
     # conference_short: MICCAI
-    journal: Accepted for Publication, Mathematical Programming Series A, 2025.
+    journal: Mathematical Programming Series A, 2025
     pdf: https://arxiv.org/pdf/2310.10082.pdf
+    page: https://link.springer.com/article/10.1007/s10107-025-02250-z
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/teaser_example_2.png
     # notes: Submitted to 
@@ -12,7 +13,7 @@ main:
   - title: "Accelerated Stochastic Approximation with State-Dependent Noise"
     authors: Sasila Ilandarideva, Anatoli Juditsky, Guanghui Lan, <strong>Tianjiao Li</strong> (alphabetic order)
     # conference_short: CVPR
-    journal: Mathematical Programming Series A, 2024. DOI:10.1007/s10107-024-02138-4
+    journal: Mathematical Programming Series A, 2024
     pdf: https://arxiv.org/pdf/2307.01497.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:sMw-q5FJme8J:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzuJ0o:AFWwaeYAAAAAZffoP0oyI5mOYDVc-SRREtUmAEw&scisig=AFWwaeYAAAAAZffoP35eU6jZNfRCuLYSQTBDrYM&scisf=4&ct=citation&cd=-1&hl=en
     # notes: 
@@ -22,7 +23,7 @@ main:
   - title: "Stochastic First-Order Methods for Average-Reward Markov Decision Processes"
     authors: <strong>Tianjiao Li</strong>, Feiyang Wu, Guanghui Lan
     # conference_short: CVPR
-    journal: Mathematics of Operations Research, 2024. DOI:10.1287/moor.2022.0241
+    journal: Mathematics of Operations Research, 2024
     pdf: https://arxiv.org/pdf/2205.05800.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:kyuY6lW9ADcJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2AhlzvMEY:AFWwaeYAAAAAZffpKEbyiEDOawgF3kUPaCEoZ2k&scisig=AFWwaeYAAAAAZffpKPkhamaocLiB8XLoZ1Out8g&scisf=4&ct=citation&cd=-1&hl=en
     # notes: 
