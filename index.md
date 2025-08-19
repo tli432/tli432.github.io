@@ -18,6 +18,10 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 - **Policy optimization and policy evaluation for Markov decision processes** 
 - **Applications:** healthcare, E-commerce, finance, etc
 
+## PhD Dissertation
+
+**[New Accelerated Methods for Optimization and Reinforcement Learning](https://hdl.handle.net/1853/78712)**
+
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/preprints.md %}
