@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Researcher and Lecturer at the MIT Sloan School of Management, working with Prof. [Swati Gupta](https://swatigupta.tech/). 
+I am a Postdoctoral Researcher and Lecturer at the [MIT Sloan School of Management](https://mitsloan.mit.edu/), working with Prof. [Swati Gupta](https://swatigupta.tech/). 
 
-I obtained my PhD in Operations Research from Georgia Tech ISyE in Summer 2025, where I was fortunate to be advised by Prof. [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). I also got an M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained my B.S. in Mathematics from Fudan University.
+I obtained my PhD in Operations Research from [Georgia Tech ISyE](https://www.isye.gatech.edu/) in Summer 2025, where I was fortunate to be advised by Prof. [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). I also got an M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained my B.S. in Mathematics from [Fudan University](https://www.fudan.edu.cn/en/).
 
 
 ## Research Interests
