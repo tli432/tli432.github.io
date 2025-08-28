@@ -9,6 +9,8 @@
   <li><a href="https://link.springer.com/journal/10589"><autocolor>Computational Optimization and Applications</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11590"><autocolor>Optimization Letters</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10898"><autocolor>Journal of Global Optimization</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/10957"><autocolor>Journal of Optimization Theory and Applications</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/operations-research-letters"><autocolor>Operations Research Letters</autocolor></a></li>
 </ul>
 
 
@@ -22,6 +24,10 @@
 <h4 style="margin:0 10px 0;">Session Organization</h4>
 
 <ul style="margin:0 0 15px;">
+  <li><autocolor>International Conference on Cotinuous Optimization (ICCOPT 2025), Los Angeles, CA, Jul 2025</autocolor></li>
+  <ul style="margin:0 0 5px;">
+    <li><autocolor>Session: Recent Advances in Stochastic First-Order Methods</autocolor></li>
+  </ul>
   <li><autocolor>INFORMS Annual Meeting 2024, Seattle, WA, Oct 2024</autocolor></li>
   <ul style="margin:0 0 5px;">
     <li><autocolor>Session: Advances in Continuous Optimization Algorithms</autocolor></li>

@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Postdoctoral Researcher at the MIT Sloan School of Management, working with Prof. [Swati Gupta](https://swatigupta.tech/). 
+I am a Postdoctoral Researcher and Lecturer at the MIT Sloan School of Management, working with Prof. [Swati Gupta](https://swatigupta.tech/). 
 
 I obtained my PhD in Operations Research from Georgia Tech ISyE in Summer 2025, where I was fortunate to be advised by Prof. [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). I also got an M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained my B.S. in Mathematics from Fudan University.
 
@@ -38,6 +38,10 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 ## Teaching
 
+- **Course Instructor, Fall 2025, MIT**
+  - Course: Introduction to Mathematical Programming (15.081/6.7210)
+  - Description: MIT’s doctoral introductory optimization course for ORC and other MIT PhD programs
+
 - **Course Instructor, Summer 2024, Georgia Tech**
   - Course: Statistics and Applications (ISyE 3770)
   - Description: Introductory probability and statistics course for engineering and computer science students
@@ -63,6 +67,10 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 
 ## Talks and Presentations
+
+- **International Conference on Continuous Optimization (ICCOPT 2025)**, Los Angeles, CA, Jul 2025  
+  - Session: Advances in Solving Large-Scale Problems: Accelerated Methods and Sharp Analyses
+  - Title: Accelerated Stochastic Approximation with State-Dependent Noise
 
 - **ORIE Colloquium, Cornell University**, Ithaca, NY, Feb 2025  
   - Title: Universal Parameter-Free Methods for Convex, Nonconvex, and Stochastic Optimization
