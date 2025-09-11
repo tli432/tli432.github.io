@@ -10,16 +10,16 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em><strong>{{ link.journal }}</strong></em>
+      <div class="periodical"><em>{{ link.journal }}</em>
       </div>
     <div class="awardone">
       {% if link.awardone %} 
-      <strong>{{ link.awardone }}</strong>
+      {{ link.awardone }}
       {% endif %}
     </div>
     <div class="awardtwo">
       {% if link.awardtwo %} 
-      <strong>{{ link.awardtwo }}</strong>
+      {{ link.awardtwo }}
       {% endif %}
     </div>
     <div class="links">
