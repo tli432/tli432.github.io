@@ -26,6 +26,8 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 ## Awards
 
+- **Second Place, INFORMS Optimization Society Student Paper Prize, 2025**
+
 - **Alice and John Jarvis Best Student Paper Award, 2024**
   - Awarded annually to one Ph.D. student in ISyE across all disciplines
   
@@ -40,7 +42,7 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 - **Course Instructor, Fall 2025, MIT**
   - Course: Introduction to Mathematical Programming (15.081/6.7210)
-  - Description: MIT’s doctoral introductory optimization course for ORC and other MIT PhD programs
+  - Description: MIT’s doctoral linear optimization course for ORC and other MIT PhD programs
 
 - **Course Instructor, Summer 2024, Georgia Tech**
   - Course: Statistics and Applications (ISyE 3770)
