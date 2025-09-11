@@ -12,12 +12,14 @@
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.journal }}</em>
       </div>
-    <div class="awards">
+    <div class="awardone">
       {% if link.awardone %} 
-      <strong> <i style="color:#e74d3c">{{ link.awardone }}</i></strong>
+      <strong> <i>{{ link.awardone }}</i></strong>
       {% endif %}
+    </div>
+    <div class="awardtwo">
       {% if link.awardtwo %} 
-      <strong> <i style="color:#e74d3c">{{ link.awardtwo }}</i></strong>
+      <strong> <i>{{ link.awardtwo }}</i></strong>
       {% endif %}
     </div>
     <div class="links">
