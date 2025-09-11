@@ -10,7 +10,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
-      <div class="periodical"><em>{{ link.journal }}</em>
+      <div class="periodical"><em><strong>{{ link.journal }}</strong></em>
       </div>
     <div class="awardone">
       {% if link.awardone %} 
@@ -19,7 +19,7 @@
     </div>
     <div class="awardtwo">
       {% if link.awardtwo %} 
-      <strong>{{ link.awardtwo }}<strong>
+      <strong>{{ link.awardtwo }}</strong>
       {% endif %}
     </div>
     <div class="links">
