@@ -14,12 +14,12 @@
       </div>
     <div class="awardone">
       {% if link.awardone %} 
-      <em> <i>{{ link.awardone }}</i></em>
+      <strong>{{ link.awardone }}</strong>
       {% endif %}
     </div>
     <div class="awardtwo">
       {% if link.awardtwo %} 
-      <em> <i>{{ link.awardtwo }}</i></em>
+      <strong>{{ link.awardtwo }}<strong>
       {% endif %}
     </div>
     <div class="links">
