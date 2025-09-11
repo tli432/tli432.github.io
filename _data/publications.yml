@@ -4,12 +4,12 @@ main:
     authors: <strong>Tianjiao Li</strong>, Guanghui Lan
     # conference_short: MICCAI
     journal: Mathematical Programming Series A, 2025
+    awardone: Second Place, 2025 INFORMS Optimization Society Student Paper Prize
+    awardtwo: Winner, 2024 Alice and John Jarvis Best Student Paper Award
     pdf: https://arxiv.org/pdf/2310.10082.pdf
     page: https://link.springer.com/article/10.1007/s10107-025-02250-z
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/teaser_example_2.png
-    notes: Second Place, 2025 INFORMS Optimization Society Student Paper Prize
-    notes: Winner, 2024 Alice and John Jarvis Best Student Paper Award
 
   - title: "Accelerated Stochastic Approximation with State-Dependent Noise"
     authors: Sasila Ilandarideva, Anatoli Juditsky, Guanghui Lan, <strong>Tianjiao Li</strong> (alphabetic order)
