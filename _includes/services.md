@@ -7,10 +7,11 @@
   <li><a href="https://link.springer.com/journal/10107"><autocolor>Mathematical Programming</autocolor></a></li>
   <li><a href="https://imstat.org/journals-and-publications/annals-of-statistics"><autocolor>Annuals of Statistics</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10589"><autocolor>Computational Optimization and Applications</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/11590"><autocolor>Optimization Letters</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/10898"><autocolor>Journal of Global Optimization</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10957"><autocolor>Journal of Optimization Theory and Applications</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/10898"><autocolor>Journal of Global Optimization</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/11590"><autocolor>Optimization Letters</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/operations-research-letters"><autocolor>Operations Research Letters</autocolor></a></li>
+  <li><a href="https://ieeecss.org/publication/transactions-automatic-control/editors"><autocolor>IEEE Transactions on Automatic Control</autocolor></a></li>
 </ul>
 
 

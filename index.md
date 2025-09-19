@@ -13,10 +13,10 @@ I obtained my PhD in Operations Research from [Georgia Tech ISyE](https://www.is
 
 My research focuses on the design and analysis of efficient algorithms for *Nonlinear Optimization*, *Stochastic Optimization*, and *Dynamic Decision*-*Making*. I am particularly interested in
 
-- **Parameter-free methods for convex and nonconvex optimization** 
+- **Parameter-free methods for large-scale convex and nonconvex optimization** 
 - **Stochastic optimization for statistical learning and machine learning**
-- **Policy optimization and policy evaluation for Markov decision processes** 
-- **Applications:** healthcare, E-commerce, finance, etc
+- **Policy optimization and policy evaluation in reinforcement learning** 
+- **Applications: AI for healthcare, E-commerce, finance, etc.**
 
 **PhD Dissertation: [New Accelerated Methods for Optimization and Reinforcement Learning](https://hdl.handle.net/1853/78712)** 
 
@@ -29,10 +29,10 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 - **Second Place, INFORMS Optimization Society Student Paper Prize, 2025**
 
 - **Alice and John Jarvis Best Student Paper Award, 2024**
-  - Awarded annually to one Ph.D. student in ISyE across all disciplines
+  - Awarded annually to one Ph.D. student in Georgia Tech ISyE across all disciplines
   
 - **Shabbir Ahmed PhD Fellowship for Excellence in Research, 2023**
-  - Awarded annually to one Ph.D. student in ISyE for research in optimization
+  - Awarded annually to one Ph.D. student in Georgia Tech ISyE for research in optimization
 
 - **Second Place, Poster Competition, YinzOR Student Conference 2024**
 
@@ -42,20 +42,13 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
 
 - **Course Instructor, Fall 2025, MIT**
   - Course: Introduction to Mathematical Programming (15.081/6.7210)
-  - Description: MIT’s doctoral linear optimization course for ORC and other MIT PhD programs
+  - Description: MIT’s doctoral-level linear optimization course for ORC and other MIT PhD programs
 
 - **Course Instructor, Summer 2024, Georgia Tech**
   - Course: Statistics and Applications (ISyE 3770)
   - Description: Introductory probability and statistics course for engineering and computer science students
   - Class size: 64 (26 on campus + 38 online)
   - Teaching evaluation: **4.8/5.0** (response rate: 56%)
-    - Respect for students: **4.8/5.0**
-    - Inclusiveness: **4.9/5.0**
-    - Communicated how to succeed: **4.7/5.0**
-    - Availability: **4.9/5.0**
-    - Stimulates interest: **4.6/5.0**
-    - Clarity: **4.5/5.0**
-    - Feedback helpfulness: **4.8/5.0**
 
 - **Guest Lecturer, Fall 2024, Georgia Tech**
   - Course: Computational Data Analysis / Machine Learning (ISyE 6740)
