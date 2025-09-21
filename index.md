@@ -19,7 +19,6 @@ I am particularly interested in
 - **Policy optimization and policy evaluation in reinforcement learning** 
 - **Applications: AI for healthcare, E-commerce, finance, etc.**
 
-**PhD Dissertation: [New Accelerated Methods for Optimization and Reinforcement Learning](https://hdl.handle.net/1853/78712), Aug 2025** 
 
 {% include_relative _includes/dissertation.md %}
 
