@@ -1,4 +1,4 @@
-<h2 id="dissertation" style="margin: 0px 0px -20px;">PhD Dissertation</h2>
+<h2 id="dissertation" style="margin: 0px 0px -10px;">PhD Dissertation</h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -38,6 +38,6 @@
 
 {% endfor %}
 
-</ol>
+<ol class="bibliography" style="margin-top: 0; margin-bottom: 0;">
 </div>
 
