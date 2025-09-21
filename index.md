@@ -11,32 +11,21 @@ I obtained my PhD in Operations Research from [Georgia Tech ISyE](https://www.is
 
 ## Research Interests
 
-My research focuses on the design and analysis of efficient algorithms for *Nonlinear Optimization*, *Stochastic Optimization*, and *Dynamic Decision*-*Making*. I am particularly interested in
+My research interests lie in the theory and methodology of *Nonlinear Optimization*, *Stochastic Optimization*, and *Dynamic Decision*-*Making*, with a central focus on bridging rigorous theoretical development with practical relevance, especially in data science and artificial intelligence.
+I am particularly interested in
 
 - **Parameter-free methods for large-scale convex and nonconvex optimization** 
 - **Stochastic optimization for statistical learning and machine learning**
 - **Policy optimization and policy evaluation in reinforcement learning** 
 - **Applications: AI for healthcare, E-commerce, finance, etc.**
 
-**PhD Dissertation: [New Accelerated Methods for Optimization and Reinforcement Learning](https://hdl.handle.net/1853/78712)** 
+**PhD Dissertation: [New Accelerated Methods for Optimization and Reinforcement Learning](https://hdl.handle.net/1853/78712), Aug 2025** 
+
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/preprints.md %}
 
-## Awards
-
-- **Second Place, INFORMS Optimization Society Student Paper Prize, 2025**
-
-- **Alice and John Jarvis Best Student Paper Award, 2024**
-  - Awarded annually to one Ph.D. student in Georgia Tech ISyE across all disciplines
-  
-- **Shabbir Ahmed PhD Fellowship for Excellence in Research, 2023**
-  - Awarded annually to one Ph.D. student in Georgia Tech ISyE for research in optimization
-
-- **Second Place, Poster Competition, YinzOR Student Conference 2024**
-
-- **First Place, Best Poster Award, Georgia Statistics Day 2023**
 
 ## Teaching
 
@@ -59,6 +48,21 @@ My research focuses on the design and analysis of efficient algorithms for *Nonl
   - Course: Optimization Methods for Reinforcement Learning (ISyE 8803)
   - Instructor: Guanghui (George) Lan
   - Responsibility: 8 Lectures in optimization methods for policy evaluation and average-reward MDPs
+
+
+## Awards
+
+- **Second Place, INFORMS Optimization Society Student Paper Prize, 2025**
+
+- **Alice and John Jarvis Best Student Paper Award, 2024**
+  - Awarded annually to one Ph.D. student in Georgia Tech ISyE across all disciplines
+  
+- **Shabbir Ahmed PhD Fellowship for Excellence in Research, 2023**
+  - Awarded annually to one Ph.D. student in Georgia Tech ISyE for research in optimization
+
+- **Second Place, Poster Competition, YinzOR Student Conference 2024**
+
+- **First Place, Best Poster Award, Georgia Statistics Day 2023**
 
 
 ## Talks and Presentations
