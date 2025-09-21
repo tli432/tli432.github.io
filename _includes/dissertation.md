@@ -38,6 +38,6 @@
 
 {% endfor %}
 
-<ol class="bibliography" style="margin-top: 0; margin-bottom: 0;">
+<ol>
 </div>
 
