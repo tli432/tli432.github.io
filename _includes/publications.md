@@ -16,10 +16,16 @@
       {% if link.awardone %} 
       {{ link.awardone }}
       {% endif %}
+      {% if link.awardonelink %} 
+      <a href="{{ link.awardonelink }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
+      {% endif %}
     </div>
     <div class="awardtwo">
       {% if link.awardtwo %} 
       {{ link.awardtwo }}
+      {% endif %}
+      {% if link.awardtwolink %} 
+      <a href="{{ link.awardtwolink }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Link</a>
       {% endif %}
     </div>
     <div class="links">
