@@ -5,7 +5,7 @@
 
 {% for link in site.data.dissertation.main %}
 
-<li style="margin-bottom: 0px;">
+<li style="margin-bottom: -40px;">
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
