@@ -1,7 +1,7 @@
 <h2 id="dissertation" style="margin: 0px 0px -15px;">PhD Dissertation</h2>
 
 <div class="publications">
-<ol class="bibliography" style="margin-top: 0; margin-bottom: -15px;">
+<ol class="bibliography" style="margin-top: 0; margin-bottom: -20px;">
 
 {% for link in site.data.dissertation.main %}
 
