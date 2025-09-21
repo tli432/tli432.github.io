@@ -21,6 +21,7 @@ I am particularly interested in
 
 **PhD Dissertation: [New Accelerated Methods for Optimization and Reinforcement Learning](https://hdl.handle.net/1853/78712), Aug 2025** 
 
+{% include_relative _includes/dissertation.md %}
 
 {% include_relative _includes/publications.md %}
 

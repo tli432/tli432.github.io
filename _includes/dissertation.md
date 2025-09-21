@@ -1,33 +1,16 @@
-<h2 id="publications" style="margin: 0px 0px -10px;">Publications</h2>
+<h2 id="dissertation" style="margin: 0px 0px -10px;">PhD Dissertation</h2>
 
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% for link in site.data.dissertation.main %}
 
 <li>
 <div class="pub-row">
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
-      <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.journal }}</em>
       </div>
-    <div class="awardone">
-      {% if link.awardone %} 
-      {{ link.awardone }}
-      {% endif %}
-      {% if link.awardonelink %} 
-      <a href="{{ link.awardonelink }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">(Link)</a>
-      {% endif %}
-    </div>
-    <div class="awardtwo">
-      {% if link.awardtwo %} 
-      {{ link.awardtwo }}
-      {% endif %}
-      {% if link.awardtwolink %} 
-      <a href="{{ link.awardtwolink }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">(Link)</a>
-      {% endif %}
-    </div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
