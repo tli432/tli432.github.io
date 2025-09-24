@@ -28,6 +28,14 @@
       <a href="{{ link.awardtwolink }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">(Link)</a>
       {% endif %}
     </div>
+    <div class="awardthree">
+      {% if link.awardtwo %} 
+      {{ link.awardtwo }}
+      {% endif %}
+      {% if link.awardtwolink %} 
+      <a href="{{ link.awardthreelink }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">(Link)</a>
+      {% endif %}
+    </div>
     <div class="links">
       {% if link.pdf %} 
       <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>

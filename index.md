@@ -14,10 +14,10 @@ I obtained my PhD in Operations Research from [Georgia Tech ISyE](https://www.is
 My research interests lie in the theory and methodology of *Nonlinear Optimization*, *Stochastic Optimization*, and *Dynamic Decision*-*Making*, with a central focus on bridging rigorous theoretical development with practical relevance, especially in data science and artificial intelligence.
 I am particularly interested in
 
-- **Parameter-free methods for large-scale convex and nonconvex optimization** 
-- **Stochastic optimization for statistical learning and machine learning**
-- **Policy optimization and policy evaluation in reinforcement learning** 
-- **Applications: AI for healthcare, E-commerce, finance, etc.**
+- Parameter-free methods for large-scale convex and nonconvex optimization
+- Stochastic optimization for statistical learning and machine learning
+- Policy optimization and policy evaluation in reinforcement learning 
+- Applications: AI for healthcare, E-commerce, finance, etc.
 
 
 {% include_relative _includes/dissertation.md %}
@@ -52,17 +52,19 @@ I am particularly interested in
 
 ## Awards
 
+- **Finalist (winner to be announced), George Nicholson Student Paper Competition, 2025**
+
 - **Second Place, INFORMS Optimization Society Student Paper Prize, 2025**
 
 - **Alice and John Jarvis Best Student Paper Award, 2024**
   - Awarded annually to one Ph.D. student in Georgia Tech ISyE across all disciplines
+
+- **Second Place, Poster Competition, YinzOR Student Conference, 2024**
   
 - **Shabbir Ahmed PhD Fellowship for Excellence in Research, 2023**
   - Awarded annually to one Ph.D. student in Georgia Tech ISyE for research in optimization
 
-- **Second Place, Poster Competition, YinzOR Student Conference 2024**
-
-- **First Place, Best Poster Award, Georgia Statistics Day 2023**
+- **First Place, Best Poster Award, Georgia Statistics Day, 2023**
 
 
 ## Talks and Presentations
