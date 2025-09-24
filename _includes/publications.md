@@ -29,10 +29,10 @@
       {% endif %}
     </div>
     <div class="awardthree">
-      {% if link.awardtwo %} 
-      {{ link.awardtwo }}
+      {% if link.awardthree %} 
+      {{ link.awardthree }}
       {% endif %}
-      {% if link.awardtwolink %} 
+      {% if link.awardthreelink %} 
       <a href="{{ link.awardthreelink }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">(Link)</a>
       {% endif %}
     </div>
