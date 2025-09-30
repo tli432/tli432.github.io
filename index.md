@@ -32,6 +32,7 @@ I am particularly interested in
 - **Course Instructor, Fall 2025, MIT**
   - Course: Introduction to Mathematical Programming (15.081/6.7210)
   - Description: MIT’s doctoral-level linear optimization course for ORC and other MIT PhD programs
+  - Class size: 49 (43 students + 6 listeners)
 
 - **Course Instructor, Summer 2024, Georgia Tech**
   - Course: Statistics and Applications (ISyE 3770)
