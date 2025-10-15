@@ -3,7 +3,7 @@ main:
   - title: "Projected Gradient Methods for Nonconvex and Stochastic Optimization: New Complexities and Auto-Conditioned Stepsizes"
     authors: Guanghui Lan, <strong>Tianjiao Li</strong>, Yangyang Xu (alphabetic order)
     # conference_short: MICCAI
-    journal: Major Revision, Mathematical Programming Series A. Initial version submitted in Dec 2024.
+    journal: Major Revision, Mathematical Programming Series A, 2025. Initial version submitted in Dec 2024.
     pdf: https://arxiv.org/pdf/2412.14291
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/teaser_example_2.png
@@ -12,7 +12,7 @@ main:
   - title: "Auto-Conditioned Primal-Dual Hybrid Gradient Method and Alternating Direction Method of Multipliers"
     authors: Guanghui Lan, <strong>Tianjiao Li</strong> (alphabetic order)
     # conference_short: MICCAI
-    journal: Preprint at arXiv:2410.01979, 2024
+    journal: Under review, SIAM Journal on Optimization, 2025
     pdf: https://arxiv.org/pdf/2410.01979.pdf
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/teaser_example_2.png
