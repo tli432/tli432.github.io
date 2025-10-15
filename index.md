@@ -20,6 +20,19 @@ I am particularly interested in
 - Applications: AI for healthcare, E-commerce, finance, etc.
 
 
+### Upcoming Talks at INFORMS 2025
+- **Oct 26 (Sunday), 2:45 PM - 4:00 PM (Building B Level 2 B212)** 
+  - Session: Optimization Society Award Session II
+  - Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
+
+- **Oct 26 (Sunday), 4:15 PM - 5:30 PM (Building A Level 3 A301)**
+  - Session: George Nicholson Student Paper Competition
+  - Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
+
+- **Oct 28 (Tuesday), 11:00 AM - 12:15 PM (Building B Level 2 B210)**
+  - Session: Advances in Solving Large-Scale Problems: Accelerated Methods and Sharp Analyses
+  - Title: Accelerated Stochastic Approximation with State-Dependent Noise
+
 {% include_relative _includes/dissertation.md %}
 
 {% include_relative _includes/publications.md %}
