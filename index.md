@@ -20,19 +20,6 @@ I am particularly interested in
 - Applications: AI for healthcare, E-commerce, finance, etc.
 
 
-### Upcoming Talks at INFORMS 2025
-- **Oct 26 (Sunday), 2:45 PM - 4:00 PM (Building B Level 2 B212)** 
-  - Session: Optimization Society Award Session II
-  - Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
-
-- **Oct 26 (Sunday), 4:15 PM - 5:30 PM (Building A Level 3 A301)**
-  - Session: George Nicholson Student Paper Competition
-  - Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
-
-- **Oct 28 (Tuesday), 11:00 AM - 12:15 PM (Building B Level 2 B210)**
-  - Session: Advances in Solving Large-Scale Problems: Accelerated Methods and Sharp Analyses
-  - Title: Accelerated Stochastic Approximation with State-Dependent Noise
-
 {% include_relative _includes/dissertation.md %}
 
 {% include_relative _includes/publications.md %}
@@ -66,7 +53,7 @@ I am particularly interested in
 
 ## Awards
 
-- **Finalist (winner to be announced), George Nicholson Student Paper Competition, 2025**
+- **Honorable Mention, George Nicholson Student Paper Competition, 2025**
 
 - **Second Place, INFORMS Optimization Society Student Paper Prize, 2025**
 
@@ -83,7 +70,7 @@ I am particularly interested in
 
 ## Talks and Presentations
 
-- **(Upcoming) INFORMS Annual Meeting**, Atlanta, GA, Oct 2025 
+- **INFORMS Annual Meeting**, Atlanta, GA, Oct 2025 
   - **Presentation I**: Optimization Society Award Session II, Oct 26 (Sunday), 2:45 PM - 4:00 PM, 
   "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
   - **Presentation II**: George Nicholson Student Paper Competition, Oct 26 (Sunday), 4:15 PM - 5:30 PM, 
