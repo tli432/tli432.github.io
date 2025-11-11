@@ -71,12 +71,12 @@ I am particularly interested in
 ## Talks and Presentations
 
 - **INFORMS Annual Meeting**, Atlanta, GA, Oct 2025 
-  - **Presentation I**: Optimization Society Award Session II,  
-  "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
-  - **Presentation II**: George Nicholson Student Paper Competition, 
-  "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
-  - **Presentation III**: Recent Advances in Stochastic and Nonlinear Optimization, 
-  "Accelerated Stochastic Approximation with State-Dependent Noise"
+  - **Presentation I**: Optimization Society Award Session II  
+  Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
+  - **Presentation II**: George Nicholson Student Paper Competition  
+  Title: A Simple Uniformly Optimal Method without Line Search for Convex Optimization
+  - **Presentation III**: Recent Advances in Stochastic and Nonlinear Optimization  
+  Title: Accelerated Stochastic Approximation with State-Dependent Noise
 
 - **International Conference on Continuous Optimization (ICCOPT 2025)**, Los Angeles, CA, Jul 2025  
   - Session: Advances in Solving Large-Scale Problems: Accelerated Methods and Sharp Analyses
