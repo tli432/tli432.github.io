@@ -71,11 +71,11 @@ I am particularly interested in
 ## Talks and Presentations
 
 - **INFORMS Annual Meeting**, Atlanta, GA, Oct 2025 
-  - **Presentation I**: Optimization Society Award Session II, Oct 26 (Sunday), 2:45 PM - 4:00 PM, 
+  - **Presentation I**: Optimization Society Award Session II,  
   "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
-  - **Presentation II**: George Nicholson Student Paper Competition, Oct 26 (Sunday), 4:15 PM - 5:30 PM, 
+  - **Presentation II**: George Nicholson Student Paper Competition, 
   "A Simple Uniformly Optimal Method without Line Search for Convex Optimization"
-  - **Presentation III**: Recent Advances in Stochastic and Nonlinear Optimization, Oct 28 (Tuesday), 11:00 AM - 12:15 PM, 
+  - **Presentation III**: Recent Advances in Stochastic and Nonlinear Optimization, 
   "Accelerated Stochastic Approximation with State-Dependent Noise"
 
 - **International Conference on Continuous Optimization (ICCOPT 2025)**, Los Angeles, CA, Jul 2025  
@@ -85,8 +85,8 @@ I am particularly interested in
 - **ORIE Colloquium, Cornell University**, Ithaca, NY, Feb 2025  
   - Title: Universal Parameter-Free Methods for Convex, Nonconvex, and Stochastic Optimization
 
-- **STOR Colloquium, UNC Chapel Hill**, Chapel Hill, NC, Jan 2025  
-  - Title: Universal Parameter-Free Methods for Convex, Nonconvex, and Stochastic Optimization
+- **IMS Young Mathematical Scientists Forum (Applied Mathematics), NUS**, Singapore, Jan 2025 
+  - Title: Universal Parameter-Free Methods for Convex and Nonconvex Optimization
 
 - **INFORMS Annual Meeting**, Seattle, WA, Oct 2024 
   - Session: First-Order Methods in Continuous and Stochastic Optimization 
