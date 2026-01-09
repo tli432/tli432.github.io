@@ -1,5 +1,5 @@
 main:
-
+  
   - title: "Projected Gradient Methods for Nonconvex and Stochastic Optimization: New Complexities and Auto-Conditioned Stepsizes"
     authors: Guanghui Lan, <strong>Tianjiao Li</strong>, Yangyang Xu (alphabetic order)
     # conference_short: MICCAI
@@ -14,6 +14,15 @@ main:
     # conference_short: MICCAI
     journal: Under review, SIAM Journal on Optimization, 2025
     pdf: https://arxiv.org/pdf/2410.01979.pdf
+    # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
+    # image: ./assets/img/teaser_example_2.png
+    # notes: Submitted to 
+
+  - title: "Multiscale Replay: A Robust Algorithm for Stochastic Variational Inequalities with a Markovian Buffer"
+    authors: Nakul, Milind, <strong>Tianjiao Li</strong>, Ashwin Pananjady
+    # conference_short: MICCAI
+    journal: ArXiv preprint, arXiv:2601.01502, 2026
+    pdf: https://arxiv.org/pdf/2601.01502
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:iBma3nDE2RMJ:scholar.google.com/&output=citation&scisdr=ClH4ZR_KEN2Ahlzj_uY:AFWwaeYAAAAAZffl5ubMzRCYzmdeCTNOtFjR7_8&scisig=AFWwaeYAAAAAZffl5liqEMp6S8ty28MOLUvZbbE&scisf=4&ct=citation&cd=-1&hl=en
     # image: ./assets/img/teaser_example_2.png
     # notes: Submitted to 
