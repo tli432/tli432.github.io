@@ -5,12 +5,14 @@
 <ul style="margin:0 0 15px;">
   <li><a href="https://www.siam.org/publications/journals/siam-journal-on-optimization-siopt"><autocolor>SIAM Journal on Optimization</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10107"><autocolor>Mathematical Programming</autocolor></a></li>
+  <li><a href="https://pubsonline.informs.org/journal/moor"><autocolor>Mathematics of Operations Research</autocolor></a></li>
   <li><a href="https://imstat.org/journals-and-publications/annals-of-statistics"><autocolor>Annuals of Statistics</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10589"><autocolor>Computational Optimization and Applications</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10957"><autocolor>Journal of Optimization Theory and Applications</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10898"><autocolor>Journal of Global Optimization</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11590"><autocolor>Optimization Letters</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/operations-research-letters"><autocolor>Operations Research Letters</autocolor></a></li>
+  <li><a href="https://www.tandfonline.com/journals/gopt20"><autocolor>Optimization</autocolor></a></li>
   <li><a href="https://ieeecss.org/publication/transactions-automatic-control/editors"><autocolor>IEEE Transactions on Automatic Control</autocolor></a></li>
 </ul>
 
@@ -18,13 +20,18 @@
 <h4 style="margin:0 10px 0;">Conference Reviews</h4>
 
 <ul style="margin:0 0 15px;">
-  <li><autocolor>Annual Conference on Learning Theory (COLT) 2022-2025</autocolor></li>
+  <li><autocolor>Annual Conference on Learning Theory (COLT) 2022-2026</autocolor></li>
 </ul>
 
 
 <h4 style="margin:0 10px 0;">Session Organization</h4>
 
 <ul style="margin:0 0 15px;">
+  <li><autocolor>INFORMS Optimization Society Conference (IOS 2026), Atlanta, GA, Mar 2026</autocolor></li>
+  <ul style="margin:0 0 5px;">
+    <li><autocolor>Session: Adaptive Methods for Nonlinear and Stochastic Optimization I</autocolor></li>
+    <li><autocolor>Session: Adaptive Methods for Nonlinear and Stochastic Optimization II</autocolor></li>
+  </ul>
   <li><autocolor>International Conference on Cotinuous Optimization (ICCOPT 2025), Los Angeles, CA, Jul 2025</autocolor></li>
   <ul style="margin:0 0 5px;">
     <li><autocolor>Session: Recent Advances in Stochastic First-Order Methods</autocolor></li>
