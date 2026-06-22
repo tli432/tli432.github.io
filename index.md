@@ -8,7 +8,7 @@ I am a Postdoctoral Researcher at the [MIT Sloan School of Management](https://m
 
 I obtained my PhD in Operations Research from [Georgia Tech ISyE](https://www.isye.gatech.edu/) in Summer 2025, where I was fortunate to be advised by Prof. [Guanghui (George) Lan](https://sites.gatech.edu/guanghui-lan/) and Prof. [Ashwin Pananjady](https://sites.gatech.edu/ashwin-pananjady/). I also got an M.S. in Quantitative and Computational Finance from the same institute. Before that, I obtained my B.S. in Mathematics from [Fudan University](https://www.fudan.edu.cn/en/).
 
-### Beginning in August 2026, I will spend one year at [IBM Research](https://research.ibm.com/) as a [Herman Goldstine Memorial Postdoctoral Fellow](https://research.ibm.com/labs/yorktown-heights/goldstine). In Fall 2027, I will join the [University of Wisconsin-Madison](https://www.wisc.edu/) [Department of Industrial and Systems Engnieering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) as a tenure-track Assistant Professor.
+**Beginning in August 2026, I will spend one year at [IBM Research](https://research.ibm.com/) as a [Herman Goldstine Memorial Postdoctoral Fellow](https://research.ibm.com/labs/yorktown-heights/goldstine). In Fall 2027, I will join the [University of Wisconsin-Madison](https://www.wisc.edu/) [Department of Industrial and Systems Engnieering](https://engineering.wisc.edu/departments/industrial-systems-engineering/) as a tenure-track Assistant Professor.**
 
 ## Research Interests
 
